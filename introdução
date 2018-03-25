@@ -1,0 +1,25 @@
+Angular2 tutorial
+
+Blocos principais:
+1-componentes
+2-Diretivas
+3-Roteamento
+4-Serviços
+5-template
+6-Metadata
+7-Data Binding
+8-Injeção de Dependência
+
+1-Componente (View):
+template
+metadata: processamento de dados
+dado a ser mostrado na tela (Data Binding)
+Comportamento da View
+
+tudo na aplicação Angular2 é um componente
+
+Formas de Data Binding:
+{{valor}}
+[propriedade]="valor"
+(evento)="handler"
+[(ngModel)]="propriedade"
